@@ -1,2 +1,2 @@
-# core-genomix.github.io
-Core Genomix static website
+# Core Genomics
+Core Genomix static website (do not edit)
